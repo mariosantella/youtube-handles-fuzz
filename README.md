@@ -3,7 +3,7 @@
 ## Overview
 This tool helps perform **Open Source Intelligence (OSINT)** by checking the availability of YouTube usernames in bulk. It generates usernames using a **name + numeric suffix** pattern (e.g., `johnsmith0000` to `johnsmith9999`) and checks if they exist on YouTube. Results are saved in a CSV file for easy reference.
 
-![Preview](ytckeck.gif)
+![Preview](ytcheck.gif)
 
 ### Why is this useful for OSINT?
 - **Identify hidden YouTube profiles** linked to real identities.
